@@ -47,7 +47,7 @@ If you use GEnSHIN in your research, please cite our work:
   title={GEnSHIN: Graph Enhanced Spatio-temporal Hierarchical Inference Network for Traffic Flow Forecasting},
   author={Zhou, Zhiyan and Liao, Junjie and Zhang, Wenhao and Liao, Yingyi and Wang, Ziai},
   journal={arXiv preprint},
-  year={2024}
+  year={2026}
 }
 ```
 

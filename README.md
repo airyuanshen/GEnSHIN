@@ -1,7 +1,7 @@
 # GEnSHIN: Graph Enhanced Spatio-temporal Hierarchical Inference Network
 
 ## 📌 Overview
-**GEnSHIN** (Graph Enhanced Spatio-temporal Hierarchical Inference Network) is a novel deep learning architecture designed for traffic flow forecasting in intelligent transportation systems. The model effectively captures complex spatiotemporal dependencies in traffic networks through innovative graph-based enhancements and hierarchical reasoning mechanisms.
+**GEnSHIN** (Graph Enhanced Spatio-temporal Hierarchical Inference Network) is a novel deep learning architecture designed for traffic flow forecasting in intelligent transportation systems. The model effectively captures complex spatiotemporal dependencies in traffic networks through innovative graph-based enhancements and hierarchical reasoning mechanisms.You can view our paper in https://arxiv.org/abs/2601.04550.
 
 ## 🎯 Key Features
 - **Attention-Enhanced GCRU Units**: Integrates Transformer modules with Graph Convolutional Recurrent Units to capture long-term temporal dependencies.
@@ -43,7 +43,7 @@ GEnSHIN is suitable for various intelligent transportation applications:
 If you use GEnSHIN in your research, please cite our work:
 
 ```bibtex
-@article{zhou2024genshin,
+@article{zhou2026genshin,
   title={GEnSHIN: Graph Enhanced Spatio-temporal Hierarchical Inference Network for Traffic Flow Forecasting},
   author={Zhou, Zhiyan and Liao, Junjie and Zhang, Wenhao and Liao, Yingyi and Wang, Ziai},
   journal={arXiv preprint},
